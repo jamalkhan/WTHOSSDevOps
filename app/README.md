@@ -96,5 +96,3 @@ docker push alihhussain/voting-app:v1
 ```
 
 The image we pushed is public and now downloadable via Docker Hub to any machine or server. In a production scenario, you would have a private container registry like [Azure Container Registry](https://azure.microsoft.com/en-us/services/container-registry/). You can find details [here](https://docs.microsoft.com/en-us/azure/app-service/containers/app-service-linux-cli#using-docker-images-from-a-private-registry).
-
-#TEST
